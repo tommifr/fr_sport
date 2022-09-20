@@ -1,0 +1,15 @@
+C:\Users\tommi.frykman\Documents\programmering\fragesport\fr_sport\fr_sport\bin\Debug\net6.0\fr_sport.exe
+C:\Users\tommi.frykman\Documents\programmering\fragesport\fr_sport\fr_sport\bin\Debug\net6.0\fr_sport.deps.json
+C:\Users\tommi.frykman\Documents\programmering\fragesport\fr_sport\fr_sport\bin\Debug\net6.0\fr_sport.runtimeconfig.json
+C:\Users\tommi.frykman\Documents\programmering\fragesport\fr_sport\fr_sport\bin\Debug\net6.0\fr_sport.dll
+C:\Users\tommi.frykman\Documents\programmering\fragesport\fr_sport\fr_sport\bin\Debug\net6.0\fr_sport.pdb
+C:\Users\tommi.frykman\Documents\programmering\fragesport\fr_sport\fr_sport\obj\Debug\net6.0\fr_sport.csproj.AssemblyReference.cache
+C:\Users\tommi.frykman\Documents\programmering\fragesport\fr_sport\fr_sport\obj\Debug\net6.0\fr_sport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommi.frykman\Documents\programmering\fragesport\fr_sport\fr_sport\obj\Debug\net6.0\fr_sport.AssemblyInfoInputs.cache
+C:\Users\tommi.frykman\Documents\programmering\fragesport\fr_sport\fr_sport\obj\Debug\net6.0\fr_sport.AssemblyInfo.cs
+C:\Users\tommi.frykman\Documents\programmering\fragesport\fr_sport\fr_sport\obj\Debug\net6.0\fr_sport.csproj.CoreCompileInputs.cache
+C:\Users\tommi.frykman\Documents\programmering\fragesport\fr_sport\fr_sport\obj\Debug\net6.0\fr_sport.dll
+C:\Users\tommi.frykman\Documents\programmering\fragesport\fr_sport\fr_sport\obj\Debug\net6.0\refint\fr_sport.dll
+C:\Users\tommi.frykman\Documents\programmering\fragesport\fr_sport\fr_sport\obj\Debug\net6.0\fr_sport.pdb
+C:\Users\tommi.frykman\Documents\programmering\fragesport\fr_sport\fr_sport\obj\Debug\net6.0\fr_sport.genruntimeconfig.cache
+C:\Users\tommi.frykman\Documents\programmering\fragesport\fr_sport\fr_sport\obj\Debug\net6.0\ref\fr_sport.dll
