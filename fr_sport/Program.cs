@@ -1,5 +1,5 @@
-﻿int poäng   =0;
-string omstart="";
+﻿int point =0;
+string omstart="ja";
 string question="";
 
 while (omstart =="ja")
@@ -12,7 +12,7 @@ while (omstart =="ja")
         
             if(question=="a")
             {
-                poäng++;
+                point++;
                 Console.WriteLine("bra jobbat du hade rätt");
                 question="d";
             
@@ -36,7 +36,7 @@ while (omstart =="ja")
         question=Console.ReadLine();
 
         if (question=="b")
-        {    poäng++;
+        {    point++;
             Console.WriteLine("du har rätt");
             question ="e";
         }
@@ -58,7 +58,7 @@ while (omstart =="ja")
         question=Console.ReadLine();
 
             if (question=="b")
-            {    poäng++;
+            {    point++;
                 Console.WriteLine("wow du hade rätt");
                 question ="f";
             }
@@ -73,9 +73,9 @@ while (omstart =="ja")
             }  
            
 
-            while (omstart != "ja"&& omstart!= "nej" )  
+            while (omstart == "ja")  
             {
-            Console.WriteLine($"Wow, du fick {poäng} vill du starta om?");
+            Console.WriteLine($"Wow, du fick {point} vill du starta om?");
             omstart = Console.ReadLine();
             
             
