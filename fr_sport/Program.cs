@@ -1,9 +1,9 @@
 ﻿int point =0;
-string omstart="ja";
+
 string question="";
 
-while (omstart =="ja")
-  {
+
+
     while (question !="a"&&question!="b"&&question!="c"&&question!="d")
     {
         Console.WriteLine("vilken skola går Tommi på?");
@@ -72,26 +72,12 @@ while (omstart =="ja")
                 question="";
             }  
            
-
-            while (omstart == "ja")  
-            {
-            Console.WriteLine($"Wow, du fick {point} vill du starta om?");
-            omstart = Console.ReadLine();
             
+        
+            Console.WriteLine($"Wow, du fick {point} poäng. Ha det bra!");
             
-            if (omstart == "ja")
-            {
-                omstart="ja";
-            }
-            else if (omstart =="nej")
-            {
-                Console.WriteLine("synd");
-            }
-            else{
-                Console.WriteLine("svara med ja eller nej");
-
-            }
+       
         }
-    }
-  }
+    
+  
 Console.ReadLine();
