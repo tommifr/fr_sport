@@ -40,9 +40,9 @@ string question="";
             Console.WriteLine("du har rätt");
             question ="e";
         }
-        else if(question=="a"||question=="b")
+        else if(question=="c"||question=="b")
         {
-            Console.WriteLine("du är dumhuvud");
+            Console.WriteLine("lmao fel");
             question="e";
         }
         else{
