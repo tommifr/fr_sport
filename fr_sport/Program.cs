@@ -31,7 +31,7 @@ string question="";
         }
         while (question !="a"&&question!="b"&&question!="c"&&question!="e")
     {
-        Console.WriteLine("har tin en stor keps");
+        Console.WriteLine("har tin en stor keps?");
         Console.WriteLine("a)Nej b)Ja c)kuggfråga tin har ingen keps ");
         question=Console.ReadLine();
 
@@ -40,7 +40,7 @@ string question="";
             Console.WriteLine("du har rätt");
             question ="e";
         }
-        else if(question=="c"||question=="b")
+        else if(question=="c"||question=="a")
         {
             Console.WriteLine("lmao fel");
             question="e";
@@ -57,12 +57,12 @@ string question="";
 
         question=Console.ReadLine();
 
-            if (question=="b")
+            if (question=="c")
             {    point++;
                 Console.WriteLine("wow du hade rätt");
                 question ="f";
             }
-            else if(question=="a"||question=="c")
+            else if(question=="a"||question=="b")
             {
                 Console.WriteLine("nah fel");
                 question="f";
